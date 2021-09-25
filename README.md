@@ -22,9 +22,9 @@ This is a radio app where you can ask Alan AI to play some music.
 
 
 ### How To Run
------------------------\
-#### Clone this repo\
-#### Run flutter packages get\
+-----------------------
+#### Clone this repo
+#### Run flutter packages get
 #### Run flutter run (remember open simulator or connect physical device, iOS auto run additional command pod install)
 
 
