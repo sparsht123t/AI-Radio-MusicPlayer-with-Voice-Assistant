@@ -3,11 +3,11 @@
 This is a radio app where you can ask Alan AI to play some music.
 
 ✅  Alan Voice\
-✅  Xolor CHange\
+✅  Color CHange\
 ✅  VelocityX\
 ✅  Beautiful-UI\
 ✅  Json Data\
-✅  auidioplayer
+✅  Audio player
 
 ## Some screenshots
 
